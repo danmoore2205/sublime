@@ -1,0 +1,15 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"CTags",
+		"Cucumber",
+		"Git",
+		"Indent XML",
+		"Package Control",
+		"RubyTest",
+		"SFTP",
+		"Theme - Soda"
+	]
+}

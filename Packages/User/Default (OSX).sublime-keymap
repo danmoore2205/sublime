@@ -1,0 +1,24 @@
+[
+	// copy file name
+  {
+    "keys": ["super+shift+c"],
+    "command": "copy_path_to_clipboard"
+  },
+  // run tests
+  {
+    "keys": ["super+shift+r"],
+    "command": "run_tests",
+    "args": {"single": false}
+  },
+
+  {
+    "keys": ["super+r"],
+    "command": "run_tests",
+    "args": {"single": true}
+  },
+  // reopen last closed file
+	{
+		"keys": ["super+shift+t"],
+		"command": "reopen_last_file"
+	}
+]

@@ -1,0 +1,4 @@
+{
+	"last_test_file": "team_competition_spec.rb",
+	"last_test_run": "cd /Users/dmoore/GPL/ && bundle exec rspec --drb spec/models/team_competition_spec.rb -l 762"
+}
